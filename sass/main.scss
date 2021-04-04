@@ -3,4 +3,23 @@
 
 @import "./base/cammon";
 @import "./base/container";
+
 @import "./layout/header";
+@import './components/title';
+@import './components/my-team__social-list';
+@import "./components/modal-btn";
+@import './components/logo';
+@import './layout/navigation';
+@import './layout/hero';
+@import './layout/about';
+@import './base/container-img';
+@import './components/my-team__suptitle';
+@import './layout/gallery';
+@import './layout/email-form';
+@import './layout/container-footer';
+@import './layout/footer';
+@import './layout/portfolio';
+@import './components/backdrop';
+@import './components/modal';
+@import './components/modal-form';
+@import './components/overlay';
